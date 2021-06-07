@@ -1,2 +1,2 @@
 # quiz-1-
-quiz about me
+It's a quiz on - how well do you know me.
